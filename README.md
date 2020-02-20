@@ -1,0 +1,2 @@
+# DRC
+Data Representativeness Criterion
